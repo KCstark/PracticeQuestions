@@ -1,6 +1,6 @@
 package Reccursion;
 
-public class Lexicography {
+public class lexicography {
 
     public static Boolean lexicoTest(String str){
         int mark=0;
