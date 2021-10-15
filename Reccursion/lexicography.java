@@ -15,7 +15,6 @@ public class lexicography {
             return true;
         return false;
     }
-
     public static void main(String[] args) {
         int mark=0;
         String str="aaaabc";
